@@ -1,2 +1,0 @@
-com/ltts/kotproject/BuildConfig.java
- com.ltts.kotproject.BuildConfig
